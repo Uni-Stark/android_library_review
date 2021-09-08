@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\kgo07\\AndroidStudioProjects\\libraryReview\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\kgo07\\AndroidStudioProjects\\libraryReview\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\kgo07\\AndroidStudioProjects\\libraryReview\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_book.xml",
+        "source": "C:\\Users\\kgo07\\AndroidStudioProjects\\libraryReview\\app\\src\\main\\res\\layout\\item_book.xml"
+    }
+]

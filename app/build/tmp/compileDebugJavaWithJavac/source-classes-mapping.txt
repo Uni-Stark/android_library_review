@@ -1,0 +1,6 @@
+kr/uni/libraryreview/databinding/ActivityMainBinding.java
+ kr.uni.libraryreview.databinding.ActivityMainBinding
+kr/uni/libraryreview/BuildConfig.java
+ kr.uni.libraryreview.BuildConfig
+kr/uni/libraryreview/databinding/ItemBookBinding.java
+ kr.uni.libraryreview.databinding.ItemBookBinding
